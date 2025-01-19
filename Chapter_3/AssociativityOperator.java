@@ -19,16 +19,14 @@ public class AssociativityOperator{
 
         // Quick Quiz
 
-         int x = 6;
-         int y = 1;
-        int k = x * y/2;
+        //  int x = 6;
+        //  int y = 1;
+        // int k = x * y/2;
 
         int x = 5;
         int y = 1;
         int z = 4;
         int k = y*y - (4*x*z)/(2*x);
          System.out.println(k);
-
-
     }
 }
