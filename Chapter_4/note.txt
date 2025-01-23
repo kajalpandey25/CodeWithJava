@@ -1,0 +1,28 @@
+String => A string is a sequence of characters.
+A string is instaniated as follows:
+
+String name;
+name = new String("Kajal");
+
+String is a class but can be used like a data type.
+
+String name = "Kajal";
+
+Different ways to print in java:
+We can use the following ways to print in java:
+
+1. System.out.print()  -> No newline at the end!
+2. System.out.println()  -> Prints a newline at the end
+3. System.out.printf()  
+4. System.out.format()
+
+System.out.printf("%c", ch)
+                    ---------> %d for int
+                               %f for float
+                               %c for char
+                               %s for string
+
+
+
+
+
